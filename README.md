@@ -1,18 +1,20 @@
-# TTA983
-## Szabó Attila's  repository
+# TTA983's repository
+## Name: Szabó Attila
 OM:  72789114000
 
-(15 years old)
+(15 year old)
 
 
 1. ### Scratch
 
     - [download program](https://scratch.mit.edu/download)
     - [online editor](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
-    - #### [my scratch files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/scratch) -» gyakorló feladataim (.sb3)
+    - [Scratch Addons - Browser extension](https://chromewebstore.google.com/detail/scratch-addons/fbeffbjdlemaoicjdapfpikkikjoneco)
+    - [TurboWarp - Modded Scratch](https://turbowarp.org/editor?fps=60&stuck&limitless&offscreen&clones=Infinity)
+    - #### [scratch files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/scratch) -» My Scratch practice tasks (.sb3)
     - :trophy: Vodafone scratch verseny 2022:
         - [2nd place](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/scratch/competition_Vodafone2022_2nd_place)
-    - :video_game: my scratch games:
+    - :video_game: scratch games:
         - [JetPack guy](https://github.com/egydGIT/TTA983/blob/origin/src/main/java/scratch/games/Scratch%20Game%2002.%20-%20Flappy%20Bird%20Style%20-%20v2.0.sb3)
         - [Catch the ball](https://github.com/egydGIT/TTA983/blob/origin/src/main/java/scratch/games/Scratch%20Game%2003.%20-%20%20Catch%20the%20ball.sb3)
 
@@ -26,7 +28,7 @@ OM:  72789114000
 3. ### Micro:bit
 
     - [online editor](https://makecode.microbit.org)
-    - #### [my Micro:bit files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/microBit) -» gyakorló feladataim (.hex)
+    - #### [Micro:bit files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/microBit) -» gyakorló feladataim (.hex)
     - :video_game: my Micro:bit games:
         - [Shooting game](https://github.com/egydGIT/TTA983/blob/origin/src/main/java/microBit/(microbit%20V2)%20Shooting%20game%20-%20by%20TTA983.hex)
   
@@ -34,7 +36,7 @@ OM:  72789114000
 
     - [download program](https://mblock.makeblock.com/en-us/download/)
     - [Udemy course](https://www.udemy.com/course/arduino-robotics-with-the-mbot/learn/lecture/6532024?start=0#overview)
-    - #### [my mBot files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/mBot) -» gyakorló feladataim (.mblock)
+    - #### [mBot files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/mBot) -» gyakorló feladataim (.mblock)
 
 5. ### Logo
 
