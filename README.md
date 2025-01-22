@@ -24,12 +24,12 @@ OM:  72789114000
     - [download program](https://colobot.info/colobot-gold-edition/)
     - [TerranovaTeam on GitHub](https://github.com/colobot)
     - [Udemy course](https://www.udemy.com/course/draft/1499924/learn/lecture/9017390#overview)
-    - #### [my ColoBot files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/coloBot) -» gyakorló feladataim (.cbot)
+    - #### [my ColoBot files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/coloBot) -» My practice tasks (.cbot)
 
 3. ### Micro:bit
 
     - [online editor](https://makecode.microbit.org)
-    - #### [Micro:bit files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/microBit) -» gyakorló feladataim (.hex)
+    - #### [Micro:bit files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/microBit) -» My practice tasks (.hex)
     - :video_game: my Micro:bit games:
         - [Shooting game](https://github.com/egydGIT/TTA983/blob/origin/src/main/java/microBit/(microbit%20V2)%20Shooting%20game%20-%20by%20TTA983.hex)
   
@@ -37,7 +37,7 @@ OM:  72789114000
 
     - [download program](https://mblock.makeblock.com/en-us/download/)
     - [Udemy course](https://www.udemy.com/course/arduino-robotics-with-the-mbot/learn/lecture/6532024?start=0#overview)
-    - #### [mBot files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/mBot) -» gyakorló feladataim (.mblock)
+    - #### [mBot files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/mBot) -» My practice tasks (.mblock)
 
 5. ### Logo
 
