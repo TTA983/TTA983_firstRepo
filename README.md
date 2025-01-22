@@ -10,6 +10,7 @@ OM:  72789114000
     - [download program](https://scratch.mit.edu/download)
     - [online editor](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
     - [Scratch Addons - Browser extension](https://chromewebstore.google.com/detail/scratch-addons/fbeffbjdlemaoicjdapfpikkikjoneco)
+        - [Scratch Addons - My settings, and plugins](src/main/java/scratch/scratch-addons-settings.json)
     - [TurboWarp - Modded Scratch](https://turbowarp.org/editor?fps=60&stuck&limitless&offscreen&clones=Infinity)
     - #### [scratch files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/scratch) -» My Scratch practice tasks (.sb3)
     - :trophy: Vodafone scratch verseny 2022:
